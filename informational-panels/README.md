@@ -1,2 +1,2 @@
-# Gerenciador de Informações
+# Módulo de Informações
 

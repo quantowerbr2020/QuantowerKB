@@ -1,2 +1,2 @@
-# Ferramentas de Trading
+# Módulo de Trading
 

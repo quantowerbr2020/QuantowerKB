@@ -1,2 +1,2 @@
-# Gerenciador de Operações
+# Módulo de Operações
 
