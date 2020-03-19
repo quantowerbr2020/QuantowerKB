@@ -6,8 +6,8 @@ description: >-
 
 # Instalação
 
-* [**System Requirements**](installation.md#pc-requirements)\*\*\*\*
-* \*\*\*\*[**Installation Steps**](installation.md#installation-steps)\*\*\*\*
+* [**Pre-requisito para instalação da plataforma**](installation.md#pc-requirements)\*\*\*\*
+* \*\*\*\*[**Etapas da instalação**](installation.md#installation-steps)\*\*\*\*
 * \*\*\*\*[**Uninstallation**](installation.md#uninstall)\*\*\*\*
 
 Depois de baixar o aplicativo Quantower no site oficial da Quantower - você estará pronto para iniciar um processo de instalação. A partir deste ponto, devemos esclarecer as principais diferenças entre o "processo de instalação" da Quantower e o processo de instalação padrão do Windows®, aos quais a maioria dos usuários está conhecem..

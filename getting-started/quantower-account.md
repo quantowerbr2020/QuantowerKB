@@ -1,33 +1,33 @@
 ---
 description: >-
-  An account is required to gain access to the platform’s paid features even for
-  a trial period
+  É necessária ter conta membro para obter mas módulos e ter acesso aos recursos
+  pagos da plataforma, mesmo durante um período de teste
 ---
 
 # Registrando sua licença
 
-Quantower account \(Account\) is a part of Licensing functionality. It is required to bind a paid licenses for Quantower software and its add-ons per account holder.
+Para utilizar uma novo módulo é necessário vincular seu módulo pago com sua licença de membro para usar sem limitação a funcionalidade do módulo
 
 {% hint style="info" %}
-Actually, you don’t require to have an Account while using a **Free version** of Quantower.
+Na verdade, você precisa ter uma licença membro enquanto usa uma versão gratuita da Quantower.
 {% endhint %}
 
-Once you start using some paid feature, you will be asked to Login to your Account, so Quantower could verify whether you have the permission to use it. From this moment you can cancel the authorization process or proceed to log in. Once canceled you just won’t be able to use that paid feature. If you decide to log in, you need to have an Account and one of the paid licenses bound with it.
+Depois de começar a usar algum módulo pago, você será solicitado a fazer login na sua conta, para que o Quantower possa verificar se você tem permissão para usá-lo. A partir deste momento, você pode cancelar o processo de autorização ou prosseguir com o login. Depois de cancelado, você não poderá mais usar esse recurso pago. Se você decidir fazer login, precisará ter uma conta e uma das licenças pagas vinculadas a ela.
 
 {% embed url="https://www.youtube.com/watch?v=sQVm6Pikz1E" caption="" %}
 
-## Account creation
+## Criar sua conta membro
 
-There are two ways to get yourself an Account:
+Existem duas maneiras de obter uma conta membro.:
 
-* proceed to Log in when you have been asked for in Quantower application; 
-* go to [https://accounts.quantower.com](https://accounts.quantower.com) via your favorite browser.
+* prossiga para Efetuar login quando solicitado na Quantower plataforma diretamente; 
+* E pelo link  [https://accounts.quantower.com.br](https://accounts.quantower.com.br) via seu browser favorito.
 
 ![Quantower Account Log in form](https://lh5.googleusercontent.com/W4Plz6PIEosVP3gIaprdWE3wDWsKDTZlSCG8fh3a47hM9Mx9jxgq6nmj_x8yI02fa2ykPKfa73g79EOc9Jv7DzP15saDc6S-V4rNA_VCKGCFerll6we2m5M1odzBIJjtlBtTbYmA)
 
-In both ways you will get to Account log in form.
+Nos dois sentidos, você acessará o formulário de login da conta.If you don’t have an account
 
-| If you don’t have an account | Already have an Account |
+| Already have an Account |  |
 | :--- | :--- |
 | Press the **GET STARTED** link in the footer. | Enter your credentials and press **SIGN ME IN** |
 
@@ -35,13 +35,15 @@ In both ways you will get to Account log in form.
 After you submit the Registration form, you will get a verification email on the address, you have specified. You should follow the link from that email to complete the Registration process.
 {% endhint %}
 
-## Account management
+## Gerenciamento da conta
 
-You can manage your account after registration in your personal cabinet — [https://accounts.quantower.com/](https://accounts.quantower.com/). Here you can:
+Você pode gerenciar sua licença através após o registro pessoal - [accounts.quantower.com.br](https://accounts.quantower.com.br) 
 
-* see you currently active licenses;
+Aqui você pode gerenciar:
+
+* Licenças Ativas;
 * buy or prolong licenses;
-* change your Account password.
+* mudar sua senha.
 
 ## Account removal
 
