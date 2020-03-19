@@ -1,6 +1,6 @@
 ---
 description: >-
-  Requisitos de sistema e 3 etapas simples para instalar com sucesso a
+  Requisitos de sistema são 3 etapas simples para instalar com sucesso a
   plataforma
 ---
 
@@ -15,44 +15,46 @@ Depois de baixar o aplicativo Quantower no site oficial da Quantower - você est
 {% embed url="https://youtu.be/155Ha6Rku0E" caption="" %}
 
 {% hint style="success" %}
-Quantower does not copy its files to the system folders \(AppData or Program Files\) of the OS, nor does write changes to the system registry
+A Quantower não copia seus arquivos para as pastas do sistema \(AppData ou Arquivos de Programas\) do sistema operacional, nem grava alterações no registro do sistema
 {% endhint %}
 
-What does it mean? The program doesn't violate the integrity of the OS, and in case of removal, it will not leave any prints of its presence on your computer. Quantower’s "installer" literally extracts files to the user-specified folder.
 
-This approach allows you to store \(and launch\) the Quantower on removable drive for use on any other computer as the portable application. It can be convenient when you need to move Quantower with all of its settings to another PC; just copy Quantower folder and paste where you need.
 
-## PC requirements
+O que isso significa? O programa não viola a integridade do sistema operacional e, em caso de remoção, não deixa nenhuma impressão de sua presença no seu computador. O "instalador" da Quantower literalmente extrai arquivos para a pasta especificada pelo usuário.
+
+Essa abordagem permite armazenar \(e iniciar\) a Quantower na unidade removível para uso em qualquer outro computador como aplicativo portátil. Pode ser conveniente quando você precisar mover o Quantower com todas as suas configurações para outro PC; basta copiar a pasta Quantower e colar onde você precisar.
+
+## PC pre-requisitos
 
 {% hint style="info" %}
 * Windows 10
 * .NET Framework v.4.7.2
-* Available disk space — 1 GB \(depends on the volume of loaded history\)
+* Armanezamento - 1 GB \(depende do volume do histórico carregado\)
 {% endhint %}
 
 {% hint style="warning" %}
-**Microsoft has officially stopped supporting Windows 8 and Windows 7**. Therefore, the platform may not start or may work incorrectly. [More information on supported versions, please check on official Microsoft website.](https://support.microsoft.com/en-us/help/13853/windows-lifecycle-fact-sheet)
+A Microsoft parou oficialmente de oferecer suporte ao Windows 8 e Windows 7. Portanto, a plataforma pode não iniciar ou pode funcionar incorretamente.. [More information on supported versions, please check on official Microsoft website.](https://support.microsoft.com/en-us/help/13853/windows-lifecycle-fact-sheet)
 
-We recommend using Windows 10.
+N's recomendamos o uso do Windows 10.
 {% endhint %}
 
-## Installation steps
+## Etapas da Instalação
 
 ![Quantower installer screen](../.gitbook/assets/extract-files-quantower.png)
 
-1. [**Download the app installer**](https://updates.quantower.com/Quantower/x64/latest/Quantower.exe) and launch the _**Quantower.exe**_ file
-2. Select the folder to extract application files
-3. Once an extraction process being finished the platform will start automatically with **Binance connection** in Info Mode and with the default workspace
+1. [**Faça o download da plataforma**](https://updates.quantower.com/Quantower/x64/latest/Quantower.exe) onde deseja ser instalado e execute o arquivo _**Quantower\_br.exe**_ 
+2. Selecione a pasta para extrair os arquivos do aplicativo
+3. Após a conclusão do processo de extração, a plataforma iniciará automaticamente com a conexão da **Binance** no Modo Info e com a área de trabalho padrão
 
 {% hint style="warning" %}
-Please note, that you may need to allow an in-going and outgoing connection for _**Starter.exe**_ file \(the main executable of Quantower terminal\) in your Firewall settings
+Observe que você pode precisar permitir uma conexão de entrada e saída para o arquivo Starter.exe \(o principal executável da Quantower plataforma\) nas configurações do seu Firewall
 {% endhint %}
 
 ![](../.gitbook/assets/default-workspace.png)
 
-## Uninstall
+## Desinstalação 
 
-If you need to uninstall the application, just _**delete the folder with all application files**_. You may also keep your personal settings \(connection information & workspaces\) by copying the Settings folder \(can be found right in Quantower folder\) before application delete. These Settings folder can be pasted to any other Quantower folder later.
+Se você precisar desinstalar o aplicativo, **basta excluir a pasta com todos os arquivos do aplicativo**. Você também pode manter suas configurações pessoais \(informações de conexão e áreas de trabalho\) copiando a pasta Configurações \(pode ser encontrada diretamente na pasta Quantower\) antes de excluir o aplicativo. Essa pasta Configurações pode ser colada em qualquer outra pasta Quantower posteriormente.
 
-You may also refer to [**Backup & Restore manager**](backup-and-restore-manager.md) to backup your settings in one file and restore them later.
+Você também pode consultar [**Backup & Restorador**](backup-and-restore-manager.md)  que permit fazer backup de suas configurações em um arquivo e restaure-as mais tarde.
 
