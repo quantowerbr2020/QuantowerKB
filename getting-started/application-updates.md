@@ -1,32 +1,32 @@
 ---
 description: >-
-  Quantower — is a constantly developing application that is why you can be sure
-  to open more and more useful features each day.
+  Quantower — é um aplicativo em constante desenvolvimento e é por isso que você
+  pode garantir cada vez mais recursos úteis a cada dia.
 ---
 
 # Atualizações da Plataforma
 
-Our team strives to release the new updates as soon as possible, usually at least a couple times per month.
+Nossa equipe se esforça para lançar as novas atualizações o mais rápido possível, geralmente pelo menos duas vezes por mês.
 
-Quantower automatically checks for updates on start and re-checks them every 10 minutes in the background. It helps you to get known about the latest updates just after we release them.
+O Quantower verifica automaticamente se há atualizações no início e as verifica novamente a cada 10 minutos em segundo plano. Ele ajuda você a se familiarizar com as atualizações mais recentes logo após lançá-las.
 
 ![The green arrow on the logo indicates that a new update is available](../.gitbook/assets/screenshot_128.png)
 
-A green arrow will appear near the logo when a new version is available. Сlick on the "_**Logo**_" icon and open the sidebar, then press the “_**NEW VERSION**_” button at the bottom and get on About screen.
+Uma seta verde aparecerá perto do logotipo quando uma nova versão estiver disponível. Clique no ícone "Logo" e abra a barra lateral, depois pressione o botão "**Nova Versão**" na parte inferior e entre na tela sobre
 
 ![New version is available for download](../.gitbook/assets/new-version-quantower.png)
 
-Press the "_**DOWNLOAD**_" button, and Quantower will download the latest version and prepare it for the update. When the download process is finished, Quantower will ask you about the restart. This action is required to apply the new version, but you can cancel the reboot and proceed using an application. In this case, updates will be applied on the next start of Quantower.
+Pressione o botão "**DOWNLOAD**" e a Quantower fará o download da versão mais recente e a preparará para a atualização. Quando o processo de download terminar, a Quantower perguntará sobre a reinicialização. Esta ação é necessária para aplicar a nova versão, mas você pode cancelar a reinicialização e continuar usando um aplicativo. Nesse caso, as atualizações serão aplicadas na próxima inicialização da Quantower.
 
 {% hint style="danger" %}
-If you accept an application restart for the update, it will close and reopen with the new version. This may take some time, and trading will be unavailable.
+Se você aceitar uma reinicialização do aplicativo para a atualização, ela será fechada e reaberta com a nova versão. Isso pode levar algum tempo e a negociação não estará disponível.
 {% endhint %}
 
-All of your local settings will be saved and applied for future updates because the update changes the Core files only.
+Todas as suas configurações locais serão salvas e aplicadas para atualizações futuras porque a atualização altera apenas os arquivos principais.
 
-## Rollback to previous version
+## Reversão para a versão anterior
 
-The rollback function allows you to go back one version after updating the platform. This option is only available if you have previously updated the platform.
+A função de reversão permite retornar uma versão após a atualização da plataforma. Esta opção está disponível apenas se você tiver atualizado a plataforma anteriormente.
 
 ![Rollback to previous Quantower version](../.gitbook/assets/rollbackto-previous-version.png)
 

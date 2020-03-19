@@ -1,153 +1,153 @@
 ---
 description: >-
-  Get to know how to use and manage Control center that is a starting panel of
-  all platform
+  Saiba como usar e gerenciar o Control Center, que é o painel inicial de toda a
+  plataforma
 ---
 
 # Barra de Controle
 
-**Control center** — is the main starting point of all terminal, used as a launcher and informer simultaneously. The main functions of the Control center \(CC\) are:
+**Barra de controle** - é o principal ponto de partida de todos elementos da plataforma, e as principais funções do barra de controle \(BC\) são:
 
-* Launcher for panels
-* Workspaces holder
-* Connections monitor
-* General settings access point
+* Abrir os módulos ou paneis
+* Área de trabalho
+* Monitor de conexões
+* Informações
+* Buscar Smart
 
 ![Control center toolbar](../.gitbook/assets/controlcenter.png)
 
-CC technically is a panel, but behaves something differently: it can be dragged among your screens \(if you have more than one\) and it will be always stuck at the top of the screen. It adapts own width up to the screen width and it participates in the workspace, meaning, that other panels can be stuck to it.
+A **Barra de Controle** tecnicamente é um painel, mas se comporta de maneira diferente: ele pode ser arrastado entre as telas \(se você tiver mais de um\) e sempre ficará preso na parte superior da tela. Ele adapta a largura própria até a largura da tela e participa da área de trabalho, o que significa que outros painéis podem ser presos a ela. Devido ao fato de a Barra ser o painel de controle principal, ele pode recolher toda a interface do terminal clicando no ícone "**Recolher**". 
 
-Due to the fact that CC is the main controlling panel it has an ability to collapse all terminal’s interface by clicking the “_**Collapse**_” icon. This action makes all application panels to collapse to the taskbar and literally disappear from your screens; it affects all panels on all screens. If you press the CC icon on the taskbar after the collapse, you will get all of the interfaces appear again.
+Essa ação faz com que todos os painéis de aplicativos colapsem na barra de tarefas e desapareçam literalmente das telas; isso afeta todos os painéis em todas as telas. Se você pressionar o ícone na barra de tarefas após o colapso, todas as interfaces aparecerão novamente.
 
 ![Global interface collapser](../.gitbook/assets/cclogoicon.png)
 
-The “_**Close**_” icon just closes the terminal. You may set up “_not to ask to confirm the closing_” setting in the pop-up screen while the first closing.
+O ícone “_**Fecha**_” apenas fecha a plataforma. Você pode configurar a opção “não pedir para confirmar o fechamento” na tela pop-up durante o primeiro fechamento.
 
-## Customization of Control Center
+## Customização da Barra de Controle
 
-For optimal use of the space on Control center, we have added the ability to display/hide some controls. For example, to hide the Timezones, Workspaces, Connections, etc., right-click on the context menu and go to View section. By clicking on the ticks, the controls will appear at the control center.
+Para otimizar o uso do espaço na Barra de controle, adicionamos a capacidade de exibir / ocultar alguns controles. Por exemplo, para ocultar fusos horários, áreas de trabalho, conexões etc., clique com o botão direito do mouse no menu de contexto e vá para a seção Exibir. Ao clicar nos ticks, os controles aparecerão no centro de controle.
 
 ![Right click on the control center will bring up the addtional settings window ](../.gitbook/assets/customization-of-control-center.png)
 
-We have also added the ability to quickly call the controls without displaying them on the control center.
+Também adicionamos a capacidade de chamar rapidamente os controles sem exibi-los no painel de controle.
 
 ![Additional settings of Control Center](../.gitbook/assets/customization-of-control-center2.png)
 
-## Sidebar
+## Barra Lateral
 
-All of the panels are placed in so-called _**“Sidebar”**_ screen, that is popping out once you click the Logo icon on CC.
+Todos módulos podem ser localizados _**“Barra Lateral”**_ , que aparece quando você clica no ícone Logotipo no barra.
 
 ![Control center sidebar \(main menu\)](../.gitbook/assets/main-menu-in-control-center.png)
 
-The Sidebar consists of panels icons, grouped by the functionality. Each group can be collapsed in order to make the panels list cleaner. From this place, you can open any panel by left-clicking on its icon. Each group has its color to help you determine the functional assignment of each panel.
+A **Barra Lateral** consiste em ícones de painéis, agrupados pela funcionalidade. Cada grupo pode ser recolhido para tornar a lista de painéis mais limpa. Nesse local, você pode abrir qualquer painel clicando com o botão esquerdo no seu ícone. Cada grupo tem sua cor para ajudá-lo a determinar a atribuição funcional de cada painel.
 
-The footer of Sidebar contains several functions:
+O rodapé da barra lateral contém várias funções:
 
-* “**About**” link: opens a screen with information about terminal \(version, rollback, updates checker etc.\). If the system detects the new version of Quantower, the “NEW VERSION” button appears instead of this link;
-* “**Exit**” button: closes the application.
+* Link "**Sobre**": abre uma tela com informações sobre a plataforma \(versão, reversão, verificador de atualizações etc.\). Se o sistema detectar a nova versão da Quantower, o botão "Nova Versão" aparecerá em vez deste link;
+* “**Sair**” botão: fecha a plataforma.
 
 {% hint style="info" %}
-The list of links in footer can contain more or fewer items, depending on current application requirements.
+A lista de links no rodapé pode conter mais ou menos itens, dependendo dos requisitos atuais do aplicativo.
 {% endhint %}
 
-## Smart search
+## Smart procura
 
-The Smart search block of Control center allows finding the various elements of the whole application. It is connected with the Sidebar and uses it to display the search results.
+O recurso de pesquisa inteligente na barra de controle permite encontrar os vários elementos de todo o aplicativo. Ele está conectado à Barra Lateral e o usa para exibir os resultados da pesquisa.
 
 ![Smart search results](../.gitbook/assets/ccsmartsearch.png)
 
-Currently, the Smart search feature allows you to find the following elements:
+Atualmente, o recurso de pesquisa inteligente permite encontrar os seguintes elementos: 
 
-* Panels \(by their names\);
-* Trading symbols among all active connections \(by their names and descriptions\)
+* Símbolos de negociação entre todas as conexões ativas \(por seus nomes e descrições\)
 
-In case you find a panel, just click its icon to open it.
+Caso encontre um painel, basta clicar no ícone para abri-lo..
 
-If you were looking for a trading symbol, click on it to see the list of supported panels, that can be opened, predefined with this symbol.
+Se você estava procurando um símbolo de negociação, clique nele para ver a lista de painéis suportados, que podem ser abertos, predefinidos com este símbolo.
 
-To cancel the search results — click the “_**Cancel search**_” button at the Sidebar footer. This will get you back to the default panels list view.
+Para cancelar os resultados da pesquisa - clique no botão "**Cancelar pesquisa**" no rodapé da barra lateral. Isso o levará de volta à exibição de lista de painéis padrão.
 
-## Favorite panels
+##  Módulos Favoritos
 
-You might already have seen the Star icon in the right top corners of some panels tiles in Sidebar. This is the “Favorite panels” functionality, allowing you to select the most usable panels and place their icons on the Favorites bar on Control center.
+Você já deve ter visto o ícone Estrela no canto superior direito de alguns módulos da barra lateral. Essa é a funcionalidade “**Módulos favoritos**”, permitindo selecionar os painéis mais utilizáveis e colocar seus ícones na barra Favoritos no centro de controle.
 
 ![Favorite panels](../.gitbook/assets/ccfavoritepanels.gif)
 
-The way to use it very simple — hover over the right top corner of any panel tile in Sidebar and click the Star icon appeared. That is all: panel appears in Favorite panels bar in Control center. To remove from favorites just click the activated Star icon on Panel's tile or right-click on the icon in Favorites panel and select “_**Hide from toolbar**_”.
+A maneira de usá-lo de maneira muito simples - passe o mouse sobre o canto superior direito de qualquer bloco do painel na Barra Lateral e clique no ícone Estrela. Isso é tudo: o painel aparece na barra de painéis Favoritos no Centro de controle. Para remover dos favoritos, clique no ícone Star ativado no bloco do painel ou clique com o botão direito do mouse no ícone no painel Favoritos e selecione "**Ocultar da barra de ferramentas**".
 
-## Lock trading
+## Lock Área de trabalho
 
-If you would like to prevent the manual trading operations occur, you may use the “_**Lock trading**_” button on Control center. Once clicked it displays the confirmation message that trading being locked and all of the functions, related to opening or closing orders and positions will be disabled. Unlock trading can be done the vice-versa way.
+Se você deseja impedir que as operações de negociação manual ocorram, use o botão "Bloquear negociação" no Centro de controle. Uma vez clicado, ele exibe a mensagem de confirmação de que a negociação está bloqueada e todas as funções relacionadas à abertura ou fechamento de ordens e posições serão desativadas. A negociação de desbloqueio pode ser feita da maneira vice-versa.
 
 ![Lock trading icon](../.gitbook/assets/cclocktrading.png)
 
-This feature is useful in case you would like to only analyze the market or while editing your workspace \(mostly to avoid misclicks\).
+Esse recurso é útil caso você deseje analisar apenas o mercado ou enquanto edita sua área de trabalho \(principalmente para evitar erros de cliques\).
 
-## Workspaces manager
+## Gerenciamento da área de trabalho
 
 {% embed url="https://www.youtube.com/watch?v=A\_2gJdeP-08&t=20s" caption="Create and save your workspace in Quantower" %}
 
-**Workspaces manager** allows you to see, create, edit and delete your working environments as well as lock their modification. It is represented with the special icon, that opens the list of available Workspaces once being clicked.
+O **gerenciador de área de trabalho** permite ver, criar, editar e excluir seus ambientes de trabalho, bem como bloquear suas modificações. Ele é representado com o ícone especial, que abre a lista de áreas de trabalho disponíveis após o clique.
 
 ![Workspaces manager](../.gitbook/assets/ccworkspacesmanager.png)
 
-The currently active workspace is marked with the color and has a blue dot on the left side of its name. You can switch the current workspace by left-clicking any of available item from the list. The bottom part of the list \(after separator\) consists of actions, referred to the currently active workspace and allows to:
+O espaço de trabalho ativo no momento é marcado com a cor e possui um ponto azul no lado esquerdo do nome. Você pode alternar a área de trabalho atual clicando com o botão esquerdo em qualquer item disponível da lista. A parte inferior da lista \(após o separador\) consiste em ações, referidas ao espaço de trabalho ativo no momento e permite:
 
-* **Lock**: disables an ability to add, remove, move or resize any panel in current workspace;
-* **Rename...** : invokes a pop-up screen where you can set up a new name for the current workspace;
-* **Create new**: opens a pop-up screen with the new workspace creation form.
+* **Trava**: desativa a capacidade de adicionar, remover, mover ou redimensionar qualquer painel no espaço de trabalho atual;
+* **Renomear**: chama uma tela pop-up na qual você pode configurar um novo nome para o espaço de trabalho atual
+* **Criar new**: abre uma tela pop-up com o novo formulário de criação de espaço de trabalho.
 
 ![New workspace creation window](../.gitbook/assets/ccnewworkspace.png)
 
-When creating the new workspace, you have an ability to specify its future name and select whether it should be Blank, once created, or should contain some predefined panels set.
+Ao criar o novo espaço de trabalho, você pode especificar seu nome futuro e selecionar se deve estar em branco, uma vez criado, ou deve conter alguns painéis predefinidos.
 
 {% hint style="success" %}
-The list of Workspace templates will be constantly growing.
+A lista de modelos de espaço de trabalho estará em constante crescimento.
 {% endhint %}
 
-You can also Remove any of Workspaces by clicking the “_**Trash**_” icon on the right side from Workspace name \(icon appears while hovering the name\).
+Você também pode remover qualquer um dos espaços de trabalho clicando no ícone "Lixeira" no lado direito do nome do espaço de trabalho \(o ícone aparece ao passar o nome\).
 
-## Favorite connections
+## Conexões Favoritas
 
-The list of active connections can be seen on Control center in Favorite connections block. By default, you will see several items here, each representing one of the available connections. The [Connection manager](../connections/connections-manager.md) screen will be opened by clicking any of items in Favorite connections block.
+A lista de conexões ativas pode ser vista no Centro de Controle, no bloco Conexões favoritas. Por padrão, você verá vários itens aqui, cada um representando uma das conexões disponíveis. A tela Gerenciador de conexões será aberta clicando em qualquer um dos itens no bloco Conexões favoritas.
 
 ![Add favorite connections by clicking the &quot;Star&quot; icon](../.gitbook/assets/favorite-connections.png)
 
-In order to show some connection on this bar, you need to click a “_**Star**_” icon at the right side of connection name in Connections manager panel. Click once more, and the connection will be removed from Favorites bar.
+Para mostrar alguma conexão nessa barra, você precisa clicar no ícone "Estrela" no lado direito do nome da conexão no painel do gerenciador de conexões. Clique mais uma vez e a conexão será removida da barra Favoritos.
 
-Being added to Favorites bar, each connection will be displayed as a tile, containing some vital info:
+Sendo adicionada à barra Favoritos, cada conexão será exibida como um bloco, contendo algumas informações vitais::
 
-* **Connection name**
-* **Status text** \(can be a status message or Ping time in ms when the connection is active\)
-* **Status Dot**, a visual representation of connection status. Can be grey \(disconnected\), yellow \(connecting\), green \(active\). If connected, the Dot blinks periodically.
+* **Nome da conexão**
+* **Status** \(pode ser uma mensagem de status ou tempo de ping em ms quando a conexão está ativa\)
+* **Status ponto**, uma representação visual do status da conexão. Pode ser cinza \(desconectado\), amarelo \(conectando\), verde \(ativo\). Se conectado, o ponto pisca periodicamente.
 
-You can Remove connection from Favorites by right-clicking on it and selecting “_**Hide from toolbar**_” item. Here you can also ask to connect or disconnect.
+Você pode remover a conexão dos Favoritos clicando com o botão direito do mouse e selecionando o item "**Ocultar da barra de ferramentas**". Aqui você também pode pedir para conectar ou desconectar.
 
-## Notifications center
+## Centro de Notificações
 
-The most actions during the platform use generate various notifications. There can be system notification \(some connection problems or errors\) and Deal tickets. The Deal tickets — are the notifications about the trading operations. Each time you create an order or opening a new position — we will create a deal ticket for this.
+A maioria das ações durante o uso da plataforma gera várias notificações. Pode haver notificação do sistema \(alguns problemas ou erros de conexão\) e tíquetes de ofertas. Os bilhetes do negócio - são as notificações sobre as operações de negociação. Cada vez que você cria um pedido ou abre uma nova posição - criaremos um ticket de oferta para isso.
 
-While some trading actions may be done in one click at the first sight, they usually consist of several related operations, each of them will be displayed via the Deal tickets. That is why you can see much more items in Notifications center than you did actions.
+Embora algumas ações de negociação possam ser executadas em um clique à primeira vista, elas geralmente consistem em várias operações relacionadas, cada uma delas será exibida através dos tickets da transação. É por isso que você pode ver muito mais itens na Central de notificações do que em ações.
 
 ![The Deal ticket and Notifications center icon](../.gitbook/assets/ccdealticket.png)
 
-The Notifications center — is the place where all notifications are stored in one list. You can open that list by clicking the Notifications icon in Control center.
+O centro de notificações - é o local em que todas as notificações são armazenadas em uma lista. Você pode abrir essa lista clicando no ícone Notificações no Centro de controle.
 
 ![Notifications center](../.gitbook/assets/ccnotificationcenter.png)
 
-When you have a set of new notifications, the small number will appear in the left top corner of Notification center icon. It displays how many unread notifications you have. Once you open the list — it understands that you have read them and the number will disappear.
+Quando você tiver um conjunto de novas notificações, o pequeno número aparecerá no canto superior esquerdo do ícone da Central de notificações. Ele exibe quantas notificações não lidas você possui. Depois de abrir a lista - entende-se que você os leu e o número desaparecerá..
 
-You will see all notifications just from the platform start. You may also clear this list by clicking the “_**Clear all**_” link. This action will hide all of the currently seen notifications from this list \(but they will be still available in Event Log panel\).
+Você verá todas as notificações apenas desde o início da plataforma. Você também pode limpar esta lista clicando no link "Limpar tudo". Esta ação ocultará todas as notificações atualmente vistas dessa lista \(mas elas ainda estarão disponíveis no painel Log de eventos\).
 
-By clicking one of the notifications you will see the window with the detailed info.
+Ao clicar em uma das notificações, você verá a janela com as informações detalhadas.clicking one of the notifications you will see the window with the detailed inf.
 
-## General settings
+## Configurações Gerais
 
-The “_**Gear**_” icon opens a general settings screen, where you can setup the most common parameters of our terminal. [More details about the **Settings**](general-settings.md) screen is available in the corresponding section of this documentation.
+O ícone “Engrenagem” abre uma tela de configurações gerais, na qual você pode configurar os parâmetros mais comuns do nosso terminal. Mais detalhes sobre a tela Configurações estão disponíveis na seção correspondente desta documentação. [Mais detalhes sobre configurações](general-settings.md) tela está disponível na seção correspondente desta documentação.
 
-## Time & Time zones
+## Hora e fusos horários
 
-The Time bar is also displayed on the Control center toolbar showing you time in selected timezone. By default, your local timezone is used. You can change the time zones list by clicking the "_**Gear**_" icon and then select the required ones in [**General settings screen**](general-settings.md). You may also select several time zones and they will appear as a list in a drop-down panel, allowing you to switch among them quickly.
+A barra de tempo também é exibida na barra de ferramentas do centro de controle, mostrando a hora no fuso horário selecionado. Por padrão, seu fuso horário local é usado. Você pode alterar a lista de fusos horários clicando no "_**Engrenagem**_" botão e selecione os necessários em [**configurações gerais**](general-settings.md). Você também pode selecionar vários fusos horários e eles aparecerão como uma lista em um painel suspenso, permitindo que você alterne entre eles rapidamente.
 
 ![Switch between your favorite timezones](../.gitbook/assets/timezones.png)
 

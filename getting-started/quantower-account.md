@@ -42,10 +42,10 @@ Você pode gerenciar sua licença através após o registro pessoal - [accounts.
 Aqui você pode gerenciar:
 
 * Licenças Ativas;
-* buy or prolong licenses;
+* Adicionar ou Extender seus módulos;
 * mudar sua senha.
 
-## Account removal
+## Remoção da conta de membro
 
-You can apply for removing your account by contacting Quantower Support via any applicable way: [https://www.quantower.com/contact-us](https://www.quantower.com/contact-us).
+Você pode remover sua conta membro por meio do nosso suporte: [https://www.quantower.com.br/contact-us](https://www.quantower.com.br/contact-us)
 
