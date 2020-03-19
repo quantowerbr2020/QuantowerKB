@@ -1,5 +1,7 @@
 ---
-description: System requirements and 3 simple steps to successfully install the platform
+description: >-
+  Requisitos de sistema e 3 etapas simples para instalar com sucesso a
+  plataforma
 ---
 
 # Instalação
@@ -8,7 +10,7 @@ description: System requirements and 3 simple steps to successfully install the 
 * \*\*\*\*[**Installation Steps**](installation.md#installation-steps)\*\*\*\*
 * \*\*\*\*[**Uninstallation**](installation.md#uninstall)\*\*\*\*
 
-Once you downloaded Quantower application from Quantower official website — you are ready to start an installation process. From this point we must clarify the main differences between Quantower "installation process" and default Windows® install process, that most users are accustomed to.
+Depois de baixar o aplicativo Quantower no site oficial da Quantower - você estará pronto para iniciar um processo de instalação. A partir deste ponto, devemos esclarecer as principais diferenças entre o "processo de instalação" da Quantower e o processo de instalação padrão do Windows®, aos quais a maioria dos usuários está conhecem..
 
 {% embed url="https://youtu.be/155Ha6Rku0E" caption="" %}
 
