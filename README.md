@@ -1,11 +1,11 @@
 ---
 description: >-
-  Here you’ll find all the detailed documentation for Quantower features, learn
-  how to create and customize your Workspace, understand all settings, get to
-  know advanced features, and more
+  Aqui você encontra toda a documentação detalhada dos recursos da Quantower,
+  aprende como criar e personalizar sua área de trabalho, entender todas as
+  configurações, conhecer recursos avançados e muito
 ---
 
-# Welcome to Quantower Help
+# Bem Vindo ao nosso guia
 
 ![](.gitbook/assets/main-workspace-for-help.png)
 
