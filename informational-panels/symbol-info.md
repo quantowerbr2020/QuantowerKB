@@ -1,14 +1,14 @@
 # Symbol Info
 
-This panel shows the detailed information about the selected Symbol. The list of parameters varies depending on Vendor and Symbol type.
+Este painel mostra as informações detalhadas sobre o símbolo selecionado. A lista de parâmetros varia de acordo com o fornecedor e o tipo de símbolo.
 
 ![Info about AUD/CHF symbol](../.gitbook/assets/symbol_info.png)
 
-You can link this panel with others to synchronize the Symbol select. It works well in bind with Watchlist, Chart, and other Symbol-related panels.
+Você pode vincular este painel com outros painéis para sincronizar a seleção de símbolo. Ele funciona bem na ligação com a Watchlist, o Chart e outros painéis relacionados a símbolos.
 
 {% hint style="success" %}
-A good practice is to link the Symbol info panel with watchlist and hide the toolbar containing Symbol lookup field. Thus you receive the watchlist with detailed info per each symbol.
+Uma boa prática é vincular o painel de informações do símbolo à lista de observação e ocultar a barra de ferramentas que contém o campo de pesquisa de símbolos. Assim, você recebe a lista de observação com informações detalhadas por cada símbolo.
 {% endhint %}
 
-![Watchlist &amp; Symbol info bind example](../.gitbook/assets/symbol_watchlist.gif)
+![Lista Favorita &amp; Linkados directamente](../.gitbook/assets/symbol_watchlist.gif)
 

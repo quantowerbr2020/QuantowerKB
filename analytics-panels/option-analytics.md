@@ -1,12 +1,12 @@
 ---
 description: >-
-  Option Analytics panel allows options traders to see prices, Greeks, build and
-  analyze risk profiles
+  O módulo Análise de Opções permite que os negociadores de opções vejam preços,
+  construam e analisem perfis de risco
 ---
 
-# Option Analytics
+# Análise de Opções
 
-Option Analytics is a professional panel for options traders that allows making strong options analysis and send orders in one click.
+O módulo é um painel profissional para negociadores de opções que permite fazer fortes análises de opções e enviar pedidos com um clique.
 
 ![](../.gitbook/assets/options.png)
 

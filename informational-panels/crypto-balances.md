@@ -1,12 +1,12 @@
 # Crypto balances
 
 {% hint style="info" %}
-This panel refers to the Crypto-specific panels, meaning that it can be used when the user has at least one active connection with crypto symbols.
+Este painel refere-se aos painéis específicos de crypto moedas, o que significa que pode ser usado quando o usuário tiver pelo menos uma conexão ativa com símbolos de crypto.
 {% endhint %}
 
-Crypto balances panel shows all of your coin balances list. Here you can find info about the amounts per asset: total, available for trading, reserved in opened orders, calculated in BTC, calculated in USD.
+Os saldos de Crypto moedas mostra toda a sua lista de saldos de moedas. Aqui você pode encontrar informações sobre os valores por ativo: total, disponível para negociação, reservado em ordens em aberto, calculado em BTC, calculado em USD.
 
 ![Active crypto balances list](../.gitbook/assets/cryptobalances.png)
 
-There is also an info bar with total amounts of your coins in BTC & USD. By default, we hid assets with zero balances, so the list looks more clear, but you can enable the full list via the panel settings \(“Hide zero balances” option\).
+Há também uma barra de informações com o valor total de suas moedas em BTC e USD. Por padrão, ocultamos ativos com saldo zero, para que a lista fique mais clara, mas você pode ativar a lista completa através das configurações do painel \(opção "Ocultar saldo zero"\)
 

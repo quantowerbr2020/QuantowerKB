@@ -1,14 +1,14 @@
 ---
 description: >-
-  Create the best trading environment, based on your own preferences. Use
-  panels, Binds, and Groups under one Workspace
+  Crie o melhor ambiente de negociação, com base em suas próprias preferências.
+  Use painéis, vinculações e grupos em um espaço de trabalho
 ---
 
 # Área de Trabalho, Links, Grupos
 
-We have divided the Workspaces organisation hierarchy into four basic layers \(in terms of its scales\):
+Dividimos a hierarquia da organização de Espaços de Trabalho em quatro camadas básicas \(em termos de suas escalas\):
 
-* \*\*\*\*\[**Standalone panels**
+* \*\*\*\*\[**Painéis independentes**
 
   \]\(workspaces-binds-groups.md\#panels\)\*\*\*\*
 
@@ -16,29 +16,29 @@ We have divided the Workspaces organisation hierarchy into four basic layers \(i
 
   \]\(workspaces-binds-groups.md\#groups\)\*\*\*\*
 
-* \*\*\*\*[**Binds**](workspaces-binds-groups.md#binds)
-* \*\*\*\*[**Workspaces**](workspaces-binds-groups.md#workspaces)\*\*\*\*
+* \*\*\*\*[L**inks**](workspaces-binds-groups.md#binds)
+* \*\*\*\*[**Área de trabalho**](workspaces-binds-groups.md#workspaces)\*\*\*\*
 
 ![General scheme of organisation layers](../.gitbook/assets/group_bind_workspace.png)
 
-Each layer plays its role in process of Workspace contents organization and we sure that once you get used to our process, you will find it convenient, flexible and able to accomplish any of your ideas.
+Cada camada desempenha seu papel no processo de organização do conteúdo da área de trabalho e temos certeza de que, depois que você se acostumar com o processo, você achará conveniente, flexível e capaz de realizar qualquer uma de suas idéias.
 
-## Panels
+## Painéis
 
-Standalone panels are the minor elements of any Workspace and they behave just like any usual PC window:
+Os painéis independentes são os elementos secundários de qualquer espaço de trabalho e se comportam como qualquer janela comum do PC:
 
-* can be resized and positioned to any place on your screen;
-* can stick to each other within their borders when they close enough;
-* can stick its size to repeat the dimensions of other panels, while resizing;
-* can be collapsed to the OS taskbar as usual windows
+* pode ser redimensionado e posicionado em qualquer lugar da tela;
+* podem manter um ao outro dentro de suas fronteiras quando se fecham o suficiente;
+* pode manter seu tamanho para repetir as dimensões de outros painéis, enquanto redimensiona;
+* pode ser recolhido na barra de tarefas do SO, como janelas normais
 
-## Panel's context menu
+## Menu de contexto do painel
 
-Each panel has its own **context menu**, situated on the left upper corner, right before the Panel’s title.
+Cada painel possui seu próprio menu de contexto, situado no canto superior esquerdo, logo antes do **título do painel**.
 
 ![Panel&apos;s context menu](../.gitbook/assets/panels-context-menu.png)
 
-This menu usually consists of following functions:
+Esse menu geralmente consiste nas seguintes funções::
 
 * **Link**. Allows linking several panels by common symbol using the Color definition. Just select one link color in two panels and they will have a synchronized symbol parameter. Once linkage is applied, the panel’s title will be colored to the respective color.
 * **Create bind**. Combining several panels in Super-panel. More in corresponding section below.

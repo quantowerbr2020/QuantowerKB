@@ -1,14 +1,14 @@
-# Reports
+# Informativos
 
-The Reports panel was created to allow traders to get the various statistical information from their broker. The list of available reports vary depending on the broker. Some connections doesn’t provide reports at all.
+O painel Relatórios foi criado para permitir que os comerciantes obtenham as várias informações estatísticas de seu corretor. A lista de relatórios disponíveis varia dependendo do broker. Algumas conexões não fornecem relatórios.
 
 ![](../.gitbook/assets/reports-1.png)
 
-Reports panel consists of the settings sidebar and report result table. To get re required report, you need to select the Connection first, and then select from the list of provided reports.
+O painel Relatórios consiste na barra lateral de configurações e na tabela de resultados do relatório. Para obter o relatório obrigatório, é necessário selecionar primeiro a Conexão e depois selecionar na lista de relatórios fornecidos.
 
-Depending on the report type, you may have some additional settings below, such as Account selection \(in case you have several from one broker\) or the range of data to show.
+Dependendo do tipo de relatório, você pode ter algumas configurações adicionais abaixo, como Seleção de conta \(caso você tenha várias de um corretor\) ou o intervalo de dados a serem exibidos.
 
 {% hint style="info" %}
-You may have no data returned by the broker, so please check the settings or widen the range of report data.
+Você pode não ter dados retornados pelo broker, portanto, verifique as configurações ou amplie o intervalo de dados do relatório.
 {% endhint %}
 

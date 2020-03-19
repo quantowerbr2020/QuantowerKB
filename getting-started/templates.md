@@ -1,12 +1,12 @@
 ---
 description: >-
-  Customize the panel as you need and save it as a Template for quick use for
-  other trading instruments
+  Personalize o painel conforme necessário e salve-o como um modelo para uso
+  rápido em outros instrumentos de negociação
 ---
 
 # Telas personalizadas
 
-Due to the wide list of features, most panels in Quantower terminal have a huge list of customization possibilities. The more powerful panel is — more settings it has. This allows any user to tune each functionality by its own and sometimes this process can take a lot of time to complete.
+Devido à ampla lista de recursos, a maioria dos painéis da Quantower plataforma possui uma enorme lista de possibilidades de personalização. O painel mais poderoso é - mais configurações ele possui. Isso permite que qualquer usuário ajuste cada funcionalidade por conta própria e, às vezes, esse processo pode levar muito tempo para ser concluído.
 
 In order to save your work on workspace customization, we have developed a _**“Templates”**_ functionality. It helps you to save your customizations in special objects — templates — and instantiate them later, keeping all of the applied settings.
 

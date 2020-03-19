@@ -1,12 +1,12 @@
-# Account info
+# Informação da sua conta
 
-The purpose of this panel is to show all of the available account information to user. Account info panel is required to have at least one active connection with trading account to show data about.
+O objetivo deste painel é mostrar todas as informações de conta disponíveis ao usuário. É necessário que o painel de informações da conta tenha pelo menos uma conexão ativa com a conta de negociação para mostrar dados.
 
-![Typical information for OANDA demo account](../.gitbook/assets/account_info.png)
+![Exemplo de informa&#xE7;&#xE3;o baseado em uma conta demo](../.gitbook/assets/account_info.png)
 
-The set of parameters diversify depending on particular account \(Connection\) and represents the total list of all provided by the vendor data.
+O conjunto de parâmetros é diversificado, dependendo da conta em particular \(Conexão\) e representa a lista total de todos os dados fornecidos pelo fornecedor.
 
 {% hint style="success" %}
-You can hide the toolbar containing "Account lookup" field \(via Settings\) in case you have only one connection in order to save some space.
+Você pode ocultar a barra de ferramentas que contém o campo "Pesquisa de conta" \(via Configurações\), caso você tenha apenas uma conexão para economizar espaço.
 {% endhint %}
 

@@ -1,19 +1,19 @@
-# Currencies Exposure
+# Exposição das Moedas
 
-Currencies Exposure panel shows a summary currency information for all positions, opened on Forex instruments. Currencies Exposure panel is related to Informational group of Control Center sidebar.
+O painel Exposição de moedas mostra um resumo das informações da moeda para todas as posições, abertas nos instrumentos Forex. O painel Exposição de moedas está relacionado ao grupo Informativo da barra lateral do Centro de Controle.
 
-![The common look of Currencies Exposure panel](../.gitbook/assets/currenciexposure.png)
+![Painel de exposi&#xE7;&#xE3;o da moedas](../.gitbook/assets/currenciexposure.png)
 
-## Available columns
+## Colunas disponíveis
 
-| **Currency** | Name of the currency |
+| **Moeda** | Nome da moeda |
 | :--- | :--- |
-| **Currency value** | Summary total amount of currency for all opened positions |
-| **Gross P/L** | Current profit or loss for all opened positions |
+| **Valor da moeda** | Quantidade total resumida de moeda para todas as posições em aberto |
+| **P/L** | Resultado atual para todas as posições em aberto |
 
-## Context menu actions
+## Ações do menu de contexto
 
-By right-clicking on each row of Currencies Exposure panel, you will get a context menu with the following functions:
+Ao clicar com o botão direito do mouse em cada linha do painel Exposição de moedas, você obterá um menu de contexto com as seguintes funções:
 
 ![Context functions](../.gitbook/assets/currenciexposurecontextmenu.png)
 
