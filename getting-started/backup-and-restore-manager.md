@@ -4,7 +4,7 @@ description: >-
   them in case of troubles with the application.
 ---
 
-# Backup & restore manager
+# Backup & restaurador
 
 ## General
 

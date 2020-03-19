@@ -1,4 +1,4 @@
-# How to connect to Pepperstone via Quantower
+# Como conectar com Pepperstone via Quantower
 
 To connect Quantower platform to Pepperstone broker and send trading orders, you need to use cTrader Gateway. If you already have a trading account with Pepperstone, then go to the penultimate step in this manual.
 

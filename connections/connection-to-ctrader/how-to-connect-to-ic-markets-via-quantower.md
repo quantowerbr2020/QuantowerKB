@@ -1,4 +1,4 @@
-# How to connect to IC Markets via Quantower
+# Como conectar IC Markets via Quantower
 
 To connect Quantower platform to IC Markets broker and send trading orders, you need to use cTrader Gateway. If you already have a trading account with IC Markets, then go to the penultimate step in this manual.
 

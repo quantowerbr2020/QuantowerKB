@@ -4,7 +4,7 @@ description: >-
   trading with and connect to them using your accounts.
 ---
 
-# Connections manager
+# Como gerencia suas conexões
 
 Connections are integrations with third-party providers that supply various data: trading quotes, symbols history etc.
 

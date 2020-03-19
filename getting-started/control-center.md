@@ -4,7 +4,7 @@ description: >-
   all platform
 ---
 
-# Control center
+# Barra de Controle
 
 **Control center** — is the main starting point of all terminal, used as a launcher and informer simultaneously. The main functions of the Control center \(CC\) are:
 

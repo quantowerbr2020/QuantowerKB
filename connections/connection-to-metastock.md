@@ -5,7 +5,7 @@ description: >-
   Quantower platform
 ---
 
-# Connection to MetaStock
+# Conexões com MetaStock
 
 ## How to install Meta**S**tock XENITH / EIKON and create an account?
 

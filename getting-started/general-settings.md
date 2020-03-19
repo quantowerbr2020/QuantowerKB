@@ -4,7 +4,7 @@ description: >-
   of the whole Quantower application.
 ---
 
-# General settings
+# Configurações Gerais
 
 General settings — is a screen, where you can set up the most common behavior of the whole Quantower application. It is logically grouped into several tabs:
 

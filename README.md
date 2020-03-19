@@ -25,5 +25,3 @@ Para facilitar a navegação, o guia é dividido em várias categorias que permi
 
 {% page-ref page="quantower-algo/" %}
 
-{% page-ref page="customization/" %}
-

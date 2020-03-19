@@ -5,7 +5,7 @@ description: >-
   Quantower.
 ---
 
-# Connection to IQFeed
+# Conexões com IQFeed
 
 You can benefit from market data provided by IQFeed while trading on Quantower platform. All you need to create IQFeed account and to connect it to Quantower. Having registered with IQFeed, a Free Trial Demo Account is automatically opened and you can use it during the determined trial time period for free. After the trial period expires, you will be offered to proceed with real account.
 

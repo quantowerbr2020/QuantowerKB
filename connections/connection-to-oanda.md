@@ -4,7 +4,7 @@ description: >-
   OANDA with the correct settings.
 ---
 
-# Connection to OANDA
+# Conexões com OANDA
 
 This guide helps you in a few simple steps to configure the connection to OANDA with the correct settings.
 

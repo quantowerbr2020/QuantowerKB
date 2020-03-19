@@ -4,7 +4,7 @@ description: >-
   active connections
 ---
 
-# Symbols lookup
+# Buscando os ativos por símbolos
 
 Symbols lookup manager — is a special screen, allowing to search and select any available symbol from active connections. There are various panels in Quantower terminal, that require to have a Symbol parameter being set up \(Watchlist, Chart, Symbol info etc.\). Depending on the requirements, symbols lookup can allow single or multiple symbols selection.
 

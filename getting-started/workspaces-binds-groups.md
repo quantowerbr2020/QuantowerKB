@@ -4,7 +4,7 @@ description: >-
   panels, Binds, and Groups under one Workspace
 ---
 
-# Workspaces, Binds, Groups
+# Área de Trabalho, Links, Grupos
 
 We have divided the Workspaces organisation hierarchy into four basic layers \(in terms of its scales\):
 

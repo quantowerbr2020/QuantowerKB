@@ -2,7 +2,7 @@
 description: System requirements and 3 simple steps to successfully install the platform
 ---
 
-# Installation
+# Instalação
 
 * [**System Requirements**](installation.md#pc-requirements)\*\*\*\*
 * \*\*\*\*[**Installation Steps**](installation.md#installation-steps)\*\*\*\*

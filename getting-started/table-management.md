@@ -4,7 +4,7 @@ description: >-
   set alerts and actions
 ---
 
-# Table management
+# Informações organizadas
 
 ## Table panels
 

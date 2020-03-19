@@ -2,7 +2,7 @@
 description: History of Quantower updates shows the changes that were in each version.
 ---
 
-# What's new
+# Versões
 
 Each update of Quantower includes the addition of new features, bug fixes and performance optimization. In case of critical issues or errors that occur due to our fault, we immediately fix them and release a new update.
 

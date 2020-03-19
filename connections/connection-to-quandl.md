@@ -4,7 +4,7 @@ description: >-
   options, indexes for further analysis and research
 ---
 
-# Connection to Quandl
+# Conexões com Quandl
 
 ## **What is Quandl?**
 

@@ -5,7 +5,7 @@ description: >-
   functionality.
 ---
 
-# First start
+# Começando
 
 {% embed url="https://youtu.be/155Ha6Rku0E" caption="" %}
 

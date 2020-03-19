@@ -1,2 +1,2 @@
-# Trading panels
+# Ferramentas de Trading
 

@@ -1,2 +1,2 @@
-# Analytics panels
+# Ferramentas de Análise
 

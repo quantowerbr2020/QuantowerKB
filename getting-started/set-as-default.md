@@ -4,7 +4,7 @@ description: >-
   default. Each newly opened panel of this type will apply the saved settings.
 ---
 
-# Set as Default
+# Save como básica
 
 Flexible platform settings allow you to customize any panel on your own. Change the font, color, add indicators, determine the displaying of the required columns in the table, etc.
 

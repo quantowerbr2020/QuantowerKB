@@ -4,7 +4,7 @@ description: >-
   to open more and more useful features each day.
 ---
 
-# Platform update
+# Atualizações da Plataforma
 
 Our team strives to release the new updates as soon as possible, usually at least a couple times per month.
 

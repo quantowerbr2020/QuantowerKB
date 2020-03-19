@@ -4,7 +4,7 @@ description: >-
   a trial period
 ---
 
-# Quantower Account
+# Registrando sua licença
 
 Quantower account \(Account\) is a part of Licensing functionality. It is required to bind a paid licenses for Quantower software and its add-ons per account holder.
 

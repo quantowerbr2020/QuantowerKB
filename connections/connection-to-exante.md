@@ -4,7 +4,7 @@ description: >-
   trading Stocks, ETFs, Forex, Futures, Options, Bonds from one account.
 ---
 
-# Connection to Exante
+# Conexões com Exante
 
 In order to trade via Quantower platform with Exante broker, you need to have a live trading account.
 

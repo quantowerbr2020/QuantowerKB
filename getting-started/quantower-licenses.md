@@ -4,7 +4,7 @@ description: >-
   separate features.
 ---
 
-# Quantower Licenses
+# Licenças Pagas
 
 We deliver the most popular trading and analytics functionality for free, but some valuable and market-specific features are available under the paid License.
 

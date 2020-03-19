@@ -5,7 +5,7 @@ description: >-
   allow you to correctly configure the connection.
 ---
 
-# Connection to Interactive Brokers
+# Conexões com Interactive Brokers
 
 ## Data Limitations
 

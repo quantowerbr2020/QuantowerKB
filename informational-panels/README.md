@@ -1,2 +1,2 @@
-# Information panels
+# Gerenciador de Informações
 

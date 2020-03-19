@@ -4,7 +4,7 @@ description: >-
   other trading instruments
 ---
 
-# Templates
+# Telas personalizadas
 
 Due to the wide list of features, most panels in Quantower terminal have a huge list of customization possibilities. The more powerful panel is — more settings it has. This allows any user to tune each functionality by its own and sometimes this process can take a lot of time to complete.
 
