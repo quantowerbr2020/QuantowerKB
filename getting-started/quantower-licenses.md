@@ -75,19 +75,19 @@ Also, you can make payments in cryptocurrencies or use direct bank transfers. To
 
 ![Order payment for Quantower license](../.gitbook/assets/orderpayment-quantower-google-chrome-2019-05-16-11.24.10.png)
 
-After that, you will be redirected to the provider’s payment page. Once you complete all the payment steps, you will be redirected back to the confirmation page of Quantower Accounts. Follow the **GO TO DASHBOARD** link to get to your Quantower Account dashboard, where you should see you current Core License information and Payment transactions history.
+Depois disso, você será redirecionado para a página de pagamento do provedor. Depois de concluir todas as etapas de pagamento, você será redirecionado de volta à página de confirmação das Contas Quantower. Siga o link IR PARA O PAINEL para acessar o painel da conta do Quantower, onde você deve ver as informações atuais sobre a licença principal e o histórico de transações de pagamento.
 
-## License terms
+## Termos de licença
 
-Currently, all licenses can be purchased for a 1-month term minimum. You can also get any Quantower paid License for the LIFETIME period — [contact our support](https://www.quantower.com/contact-us) for this.
+Atualmente, todas as licenças podem ser adquiridas por um período mínimo de 1 mês. Você também pode obter qualquer licença paga do Quantower pelo período Vida Inteira - [fale conosco](https://quantower.com.br/contact-us).
 
 ![Status of your licenses in Account dashboard](../.gitbook/assets/account-dashboard-quantower.png)
 
-## Quick tips on License purchase
+## Dicas rápidas sobre a compra de licenças
 
-* A free License is valid ALL THE TIME while your Quantower Account is active.
-* Any paid License is active from the purchase date till the end date \(“Available till”\).
-* Once your paid License is expired, the Account will be automatically downgraded to the Free License.
-* Every new purchase for the similar license type extends the “Available till” date on the purchasing term.
-* Subscription and automatic payments are currently unavailable.
+* Uma licença gratuita é válida o tempo todo enquanto sua conta Quantower está ativa..
+* Qualquer Licença paga está ativa desde a data da compra até a data final \("Disponível até"\)..
+* Depois que sua licença paga expirar, a conta será automaticamente rebaixada para a licença gratuita.
+* Cada nova compra para o tipo de licença semelhante estende a data "Disponível até" no prazo de compra.
+* Atualmente, a assinatura e os pagamentos automáticos não estão disponíveis.
 
