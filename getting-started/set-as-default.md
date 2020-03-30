@@ -1,27 +1,28 @@
 ---
 description: >-
-  Set as Default option allows to customize the panel and save its settings by
-  default. Each newly opened panel of this type will apply the saved settings.
+  A opção Definir como padrão permite personalizar o painel e salvar suas
+  configurações por padrão. Cada painel recém-aberto desse tipo aplicará as
+  configurações salvas.
 ---
 
 # Save como básica
 
-Flexible platform settings allow you to customize any panel on your own. Change the font, color, add indicators, determine the displaying of the required columns in the table, etc.
+As configurações flexíveis da plataforma permitem que você personalize qualquer painel por conta própria. Altere a fonte, a cor, adicione indicadores, determine a exibição das colunas necessárias na tabela, etc.
 
-But if you don’t want to configure the newly opened panels of this type every time, we have created the "_**Set as Default**_**"** option that redefines the factory settings.
+Mas se você não deseja configurar os painéis recém-abertos desse tipo todas as vezes, criamos a opção "Definir como padrão" que redefine as configurações de fábrica..
 
-## How Set as Default works?
+## Como definir como padrão funciona?
 
-* **Open the panel** for which you want to assign new settings.
-* **Customize the panel**. For example, on the chart panel, add any indicator, change the font size of the price axis, change the background color.
-* Click on the panel's context menu \(left upper corner\) and click on the "_**Set as Default"**_. You will see the message "_**Settings saved as default layout**_".
-* A new panel of this type will open with saved settings.
+* Abra o painel ao qual você deseja atribuir novas configurações.
+* Personalize o painel. Por exemplo, no painel do gráfico, adicione qualquer indicador, altere o tamanho da fonte do eixo dos preços, altere a cor do plano de fundo.
+* Clique no menu de contexto do painel \(canto superior esquerdo\) e clique em "Definir como padrão". Você verá a mensagem "Configurações salvas como layout padrão".
+* Um novo painel desse tipo será aberto com as configurações salvas.
 
 ![Saving default settings](../.gitbook/assets/set-as-default.gif)
 
 {% hint style="warning" %}
-If you enable [_**volume analysis tools**_](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools) on the chart panel and save it by default, then each new chart panel will be loading tick and volume data. It will increase traffic consumption and reduce the speed of building chart data.
+Se você ativar as ferramentas de análise de volume no painel do gráfico e salvá-lo por padrão, cada novo painel do gráfico carregará dados de escala e volume. Aumentará o consumo de tráfego e reduzirá a velocidade de criação de dados do gráfico.
 {% endhint %}
 
-In the latest version of the platform, we have removed the "_**Reset to Default**_" option. Therefore, each time clicking on the "_**Set as Default**_**"** you redefine the previous settings.
+Na versão mais recente da plataforma, removemos a opção "Redefinir para o padrão". Portanto, cada vez que você clica em "Definir como padrão", redefine as configurações anteriores.
 

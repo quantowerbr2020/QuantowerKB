@@ -8,27 +8,27 @@ description: >-
 
 Devido à ampla lista de recursos, a maioria dos painéis da Quantower plataforma possui uma enorme lista de possibilidades de personalização. O painel mais poderoso é - mais configurações ele possui. Isso permite que qualquer usuário ajuste cada funcionalidade por conta própria e, às vezes, esse processo pode levar muito tempo para ser concluído.
 
-In order to save your work on workspace customization, we have developed a _**“Templates”**_ functionality. It helps you to save your customizations in special objects — templates — and instantiate them later, keeping all of the applied settings.
+Para salvar seu trabalho na personalização da área de trabalho, desenvolvemos a funcionalidade "Modelos". Ele ajuda a salvar suas personalizações em objetos especiais - modelos - e instancia-las mais tarde, mantendo todas as configurações aplicadas.
 
-You can _**save any Panel, Group or Bind as a template**_, so its usefulness is very promising.
+Você pode salvar qualquer painel, grupo ou ligação como modelo, portanto, sua utilidade é muito promissora..
 
-## How to create the template?
+## Como criar o modelo?
 
-The process of Template creation is as simple as 1-2-3:
+O processo de criação de modelos é tão simples quanto 1-2-3::
 
-1. Open any panel \(or use Group / Bind\)
-2. Customize it according your needs
-3. Save as Template with custom name.
+1. Abra qualquer painel \(ou use Agrupar / Vincular\)
+2. Personalize de acordo com suas necessidades
+3. Salvar como modelo com nome personalizado
 
-![&#x201C;Save as template&#x201D; option in panel&#x2019;s context menu](../.gitbook/assets/screenshot_129.png)
+![&#x201C;Salvar o modelo&#x201D; ](../.gitbook/assets/screenshot_129.png)
 
-All of the created templates are stored in Control center sidebar, under the _**“Templates”**_ group. So you can launch any template from this place any time you wish. You can put the saved templates on the Favorites bar of Control center, as any other default panel.
+Todos os modelos criados são armazenados na barra lateral do centro de controle, no grupo "Modelos". Assim, você pode iniciar qualquer modelo deste local a qualquer momento. Você pode colocar os modelos salvos na barra Favoritos do centro de controle, como qualquer outro painel padrão.
 
 ![Templates section in Control center sidebar](../.gitbook/assets/templates.png)
 
-If you want to **edit** the template name or **delete** it from your terminal — use the context menu on it. Each Template stores all of the settings data, including sizes, coloring, internal elements visibility, a predefined symbol of account values, additional specific settings etc. In other words: all that you can customize + more.
+Se você deseja editar o nome do modelo ou excluí-lo do seu terminal - use o menu de contexto nele. Cada modelo armazena todos os dados das configurações, incluindo tamanhos, cores, visibilidade dos elementos internos, um símbolo predefinido dos valores da conta, configurações específicas adicionais, etc. Em outras palavras: tudo o que você pode personalizar + mais.
 
 {% hint style="success" %}
-You can **share your templates** with other Quantower traders by sharing the template files with them. Template files can be found in “Quantower -&gt; Settings -&gt; Templates” folder.
+Você pode compartilhar seus modelos com outros comerciantes do Quantower compartilhando os arquivos de modelo com eles. Os arquivos de modelo podem ser encontrados na pasta "**Quantower** -&gt; **Configurações** -&gt; **Modelos**".
 {% endhint %}
 

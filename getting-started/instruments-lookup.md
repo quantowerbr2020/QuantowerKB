@@ -6,83 +6,83 @@ description: >-
 
 # Buscando os ativos por símbolos
 
-Symbols lookup manager — is a special screen, allowing to search and select any available symbol from active connections. There are various panels in Quantower terminal, that require to have a Symbol parameter being set up \(Watchlist, Chart, Symbol info etc.\). Depending on the requirements, symbols lookup can allow single or multiple symbols selection.
+Gerenciador de pesquisa de símbolos - é uma tela especial, permitindo pesquisar e selecionar qualquer símbolo disponível nas conexões ativas. Existem vários painéis no terminal Quantower, que exigem a configuração de um parâmetro Symbol \(Watchlist, Chart, Symbol info etc.\). Dependendo dos requisitos, a pesquisa de símbolos pode permitir a seleção de um ou vários símbolos.
 
-Each time you successfully connect with some integration, you will get a list of its symbols in Symbol lookup manager screen. Due to Quantower allows a multiple integrations connection, you may have several similar symbols with data, that can vary a bit. This is normal because different providers can give us different quotes data.
+Sempre que você se conectar com êxito a alguma integração, você obterá uma lista de seus símbolos na tela do Gerenciador de pesquisa de símbolos. Como o Quantower permite uma conexão de múltiplas integrações, você pode ter vários símbolos semelhantes com os dados, que podem variar um pouco. Isso é normal porque fornecedores diferentes podem nos fornecer dados de cotações diferentes.
 
-## Lookup field
+## Campo de pesquisa
 
-Symbols lookup screen usually invoked from a lookup field. This field consists of two parts that allow you to open lookup screen:
+A tela de pesquisa de símbolos geralmente é chamada a partir de um campo de pesquisa. Este campo consiste em duas partes que permitem abrir a tela de pesquisa:
 
-* Symbol name \(with connection name\)
-* “_**Lookup**_” icon in the form of three vertical points
+* Nome do símbolo \(com nome da conexão\)
+* Ícone "Pesquisa" na forma de três pontos verticais
 
-![Symbol lookup field](../.gitbook/assets/lookupfield.png)
+![Campo de pesquisa](../.gitbook/assets/lookupfield.png)
 
-If you click on symbol name you will see that Lookup screen will pop up and the symbols, entered by you will be applied as filtering for the Symbols list.
+Se você clicar no nome do símbolo, verá que a tela Pesquisa será exibida e os símbolos inseridos por você serão aplicados como filtro na lista Símbolos.
 
-If you click on “_**Lookup**_” icon you will see the popped up Lookup screen without any filtering applied to symbols list.
+Se você clicar no ícone "**Pesquisa**", você verá a tela Pesquisa exibida sem nenhuma filtragem aplicada à lista de símbolos.
 
 ![Symbol Lookup screen](../.gitbook/assets/symbol-lookup-screen.png)
 
-Anyway, you will get the Lookup screen, ready for Symbol selection. Lookup screen consists of three elements:
+De qualquer forma, você terá a tela Pesquisa pronta para a seleção de símbolos. A tela de pesquisa consiste em três elementos::
 
-* Toolbar with Search field and filter
-* The list of Connections and their symbols
-* Footer section
+* Barra de ferramentas com campo de pesquisa e filtro
+* A lista de conexões e seus símbolos
+* Seção de rodapé
 
-If you want to close it just click outside of it.
+Se você quiser fechá-lo, clique fora dele.
 
-## Searching & Filtering
+## Pesquisa e filtragem
 
-Usually, each connection gives you a numerous list of trading Symbols to select from. If you know name, you can start typing it in “_**Search field**_”, and the below list will be instantly filtered to the items, containing the entered phrase.
+Geralmente, cada conexão fornece uma lista numerosa de símbolos de negociação para você escolher. Se você souber o nome, poderá começar a digitá-lo no "**campo de pesquisa**" e a lista abaixo será filtrada instantaneamente para os itens que contêm a frase inserida.
 
 ![Symbol lookup filtering](../.gitbook/assets/lookupfiltered.png)
 
-By the way, you can apply more general filtering to the list; just click the “_**Filter**_” icon on the right side of the search field and you will see the second level of symbols filtering.
+A propósito, você pode aplicar uma filtragem mais geral à lista; basta clicar no ícone "**Filtro**" no lado direito do campo de pesquisa e você verá o segundo nível de filtragem de símbolos..
 
 ![General filtering of trading Symbols](../.gitbook/assets/lookupfilter2.png)
 
-Here you will be able to filter the list by three parameters:
+Aqui você poderá filtrar a lista por três parâmetros::
 
-* Connection \(currently active connections\)
-* Symbol type \(FOREX, CFD’s, Options etc.\)
+* Conexão \(conexões atualmente ativas\)
+* Tipo de símbolo \(FOREX, CFD, Opções etc.\)
 * Exchange \(Off-Exchange, NYSE, NASDAQ etc.\)
 
-Once selecting some items among filtering parameters, the list becomes filtered to the selected values only.
+Depois de selecionar alguns itens entre os parâmetros de filtragem, a lista é filtrada apenas para os valores selecionados.
 
 {% hint style="warning" %}
-Be careful. While the Searchfield is become reset each Lookup screen invoke, the second level filters stay as they were set up last time. So if you can’t find the required Symbol type — please check if you have this type enabled.
+Seja cuidadoso. Enquanto o campo de pesquisa é redefinido a cada tela de pesquisa, os filtros de segundo nível permanecem como foram configurados da última vez. Portanto, se você não encontrar o tipo de símbolo necessário, verifique se esse tipo está ativado.
 {% endhint %}
 
-## Symbols list
+## Lista de símbolos
 
-The list of symbols is a result of filtering in Lookup screen. Here you can see the nested tree of Symbols, grouped in the following order:
+A lista de símbolos é resultado da filtragem na tela Pesquisa. Aqui você pode ver a árvore aninhada de símbolos, agrupada na seguinte ordem:
 
 * Connection
 * Exchange
 * Type
 * Subtypes
 
-The Symbol types are marked with additional icons to help you identify the required one more quickly. The Symbol item row consists of Name and description.
+Os tipos de símbolo são marcados com ícones adicionais para ajudar a identificar o necessário mais rapidamente. A linha do item Symbol consiste em Nome e descrição..
 
-To select the Symbol — click on it; to apply the symbol to the required panel, just double-click on it. This action closes the Lookup screen
+Para selecionar o símbolo - clique nele; Para aplicar o símbolo ao painel necessário, basta clicar duas vezes nele. Esta ação fecha a tela de pesquisa
 
-## Multiple symbols select
+## Seleção de vários símbolos
 
-In some cases, when panel can accept more than one Symbol item from lookup \(like the Watchlist\), you have an ability to select multiple items by holding the "_**Ctrl key**_" and clicking on the list. Once you ready to apply multiple items — press the "_**blue circle icon**_" on the right bottom corner of the list. You may also select any category level item to apply all its contents to the required panel.
+Em alguns casos, quando o painel pode aceitar mais de um item de símbolo da pesquisa \(como a Watchlist\), você pode selecionar vários itens mantendo pressionada a tecla "Ctrl" e clicando na lista. Quando estiver pronto para aplicar vários itens - pressione o "ícone de círculo azul" no canto inferior direito da lista. Você também pode selecionar qualquer item de nível de categoria para aplicar todo o seu conteúdo ao painel necessário.
 
 ![Multiple Symbols select](../.gitbook/assets/lookupmultiple.png)
 
 ## List footer
 
-To help you deal with the big lists of Symbols, there is a footer toolbar with a set of mass actions. It allows to:
+Para ajudá-lo a lidar com as grandes listas de símbolos, há uma barra de ferramentas de rodapé com um conjunto de ações em massa. Permite::
 
-* Collapse all nodes
-* Expand head nodes \(top-level nodes, usually Connections\)
-* Expand first-level child nodes
+* Recolher todos os nós
+* Expandir nós principais \(nós de nível superior, geralmente Conexões\)
+* Expandir nós filhos de primeiro nível
 
 ![Managing of multiple nodes in the Lookup Screen](../.gitbook/assets/collapsing.gif)
 
-The other useful information is placed on the right side of footer toolbar — items count. It may show the total amount of available Symbols \(after the filtering was applied\) as well as 3/235 \(3 from 235\) value, saying that you have selected multiple items among available.
+As outras informações úteis são colocadas no lado direito da barra de ferramentas do rodapé - os itens contam. Pode mostrar a quantidade total de símbolos disponíveis \(após a aplicação da filtragem\) e o valor 3/235 \(3 de 235\), indicando que você selecionou vários itens entre os disponíveis.
 

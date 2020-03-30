@@ -1,18 +1,18 @@
 ---
 description: >-
-  We offer a user with a Free license, two packages as well as licenses for
-  separate features.
+  Oferecemos a um usuário com uma licença gratuita, dois pacotes e licenças para
+  recursos separados.
 ---
 
 # Licenças Pagas
 
-We deliver the most popular trading and analytics functionality for free, but some valuable and market-specific features are available under the paid License.
+Fornecemos gratuitamente as funcionalidades de negociação e análise mais populares, mas alguns recursos valiosos e específicos do mercado estão disponíveis sob a licença paga
 
 {% hint style="info" %}
-In case of any problems with your Quantower Account or License purchase — please [contact our Support team](https://www.quantower.com/contact-us)
+Em caso de problemas com a compra da sua conta ou licença do Quantower - [por favor fale com o nosso time](https://quantower.com.br/contact-us)
 {% endhint %}
 
-To use any paid License, the trader needs to have an active [Quantower Account](quantower-account.md). If you don’t have one, you can create it during your License purchase process.
+Para usar qualquer Licença paga, o comerciante precisa ter uma licença ativa. [Quantower Account](quantower-account.md). Se você não tiver um, poderá criá-lo durante o processo de compra da licença.
 
 {% embed url="https://www.youtube.com/watch?v=sQVm6Pikz1E" caption="" %}
 
