@@ -1,59 +1,59 @@
 ---
 description: >-
-  General settings — is a screen, where you can set up the most common behavior
-  of the whole Quantower application.
+  Configurações gerais - é uma tela em que você pode configurar o comportamento
+  mais comum de todo o aplicativo Quantower.
 ---
 
 # Configurações Gerais
 
-General settings — is a screen, where you can set up the most common behavior of the whole Quantower application. It is logically grouped into several tabs:
+Configurações gerais - é uma tela em que você pode configurar o comportamento mais comum de todo o aplicativo Quantower. Ele é logicamente agrupado em várias guias:
 
-* [**General**](general-settings.md#general)\*\*\*\*
-* \*\*\*\*[**Control Center**](general-settings.md#control-center)\*\*\*\*
-* \*\*\*\*[**Sounds**](general-settings.md#sounds)\*\*\*\*
-* \*\*\*\*[**Confirmations & Warnings**](general-settings.md#confirmations)\*\*\*\*
-* \*\*\*\*[**Time zone settings**](general-settings.md#time-zones)\*\*\*\*
+* [**Ge**](general-settings.md#general)**ral**\*\*\*\*
+* \*\*\*\*[**Centro de Controle**](general-settings.md#control-center)\*\*\*\*
+* \*\*\*\*[**So**](general-settings.md#sounds)**m**\*\*\*\*
+* \*\*\*\*[**Confirmações & Alertas**](general-settings.md#confirmations)\*\*\*\*
+* \*\*\*\*[**Configurações de Horários**](general-settings.md#time-zones)\*\*\*
 * **Excel RTD**
 
 {% hint style="info" %}
-The most settings are applied automatically, once you change them, but, in some cases, you will be prompted to confirm the changes apply; this action is required for complex settings, where the one change will influence a complex logic.
+A maioria das configurações é aplicada automaticamente, uma vez que você as altera, mas, em alguns casos, você será solicitado a confirmar que as alterações se aplicam; essa ação é necessária para configurações complexas, nas quais a única alteração influencia uma lógica complexa.
 {% endhint %}
 
-General settings are backed up automatically every 5 minutes by default and you can control this behavior in the General tab.
+As configurações gerais são copiadas automaticamente a cada 5 minutos por padrão e você pode controlar esse comportamento na guia Geral.
 
 ## General settings
 
 ![General settings of Quantower &#x2014; Localization, Themes, Sounds, RTD, Time zones](../.gitbook/assets/general-settings-of-quantower.png)
 
-| **Theme** | List | Сhoose one of the 6 color schemes that suits you best |
+| **Tema** | Lista | Escolha um dos 6 esquemas de cores que melhor lhe convier |
 | :--- | :--- | :--- |
-| **Language \(beta\)** | List | Quantower supports 15 languages. In case of errors or inaccuracies in translation, any user can make changes to the text. Read the manual [how to make changes in selected language](https://help.quantower.com/customization/localization). |
-| **Autosave settings \(every 5 minutes\)** | true | Quantower will save your application settings in "Settings" folder and overwrite them every 5 minutes while the application is active. It also saves on application close |
-| **Display quantity in lots** | true |  |
-| **Abbreviate volume & ticks** | true |  |
+| **Idioma \(beta\)** | Lista | O Quantower suporta 15 idiomas. Em caso de erros ou imprecisões na tradução, qualquer usuário pode fazer alterações no texto. Leia o manual  |
+| **Autosave settings \(every 5 minutes\)** | sim | O Quantower salvará as configurações do seu aplicativo na pasta "Configurações" e as substituirá a cada 5 minutos enquanto o aplicativo estiver ativo. Também economiza no fechamento do aplicativo |
+| **Quantidade de Lotes** | sim |  |
+| **Abreviação de volume & ticks** | sim |  |
 
-## Control Center
+## Centro de controle
 
-Control center is the starting point of all terminal, used as a launcher and informer simultaneously. And for optimal use of the space on it, we have added the ability to display/hide some controls.
+O centro de controle é o ponto de partida de todos os terminais, usados como lançador e informador simultaneamente. E para otimizar o uso do espaço, adicionamos a capacidade de exibir / ocultar alguns controles.
 
 ![Configure the display of controls on the main control panel](../.gitbook/assets/control-center.png)
 
-## Sounds
+## Sons
 
 ![Sounds management](../.gitbook/assets/sounds-1.png)
 
-Sounds are a good way of additional interaction with user allowing to inform about some activities even you don’t currently in front of your PC. Sounds can be enabled or disabled per certain action.
+Os sons são uma boa maneira de interação adicional com o usuário, permitindo informar sobre algumas atividades, mesmo que você não esteja na frente do seu PC. Os sons podem ser ativados ou desativados por determinada ação.
 
-| **Enable sounds** | true | Enables or disables all of the application sounds globally |
+| **Habilitar som** | sim | Ativa ou desativa todos os sons do aplicativo globalmente |
 | :--- | :--- | :--- |
 
 
-The group of actions in Quantower, when the sound should be played consists of the most vital situations in application usage. This list is not final and can be extended or changed later. Each option has a set of controls:
+O grupo de ações no Quantower, quando o som deve ser reproduzido, consiste nas situações mais vitais no uso do aplicativo. Esta lista não é final e pode ser estendida ou alterada posteriormente. Cada opção possui um conjunto de controles:
 
-* enable/disable checkbox
-* action name
-* sound path \(you can select your custom path to any **.wav** file\)
-* prelisten button \(play/stop\)
+* habilitar/desabilitar checkbox
+* nome da ação
+* caminho do som \(você pode selecionar seu caminho personalizado para qualquer arquivo .wav\)
+* botão prelisten \(reproduzir / parar\)
 
 ## Confirmations
 
@@ -73,11 +73,11 @@ The group of actions in Quantower, when the sound should be played consists of t
 
 ![Favorite time zones management](../.gitbook/assets/time-zones.png)
 
-In case you are trading in various markets that are in different time zones, you will find it useful to switch the time indicator in [**Control center**](control-center.md) to one of your favorite market times.
+Caso esteja negociando em vários mercados que estão em fusos horários diferentes, será útil alternar o indicador de horário em [**Barra de controle**](control-center.md) to one of your favorite market times.
 
-In Time zone settings group you can select what time zones are your favorite and should be displayed in a pop-up screen when you click the [**Time**](control-center.md#time-and-time-zones) in **Control center**. Once you select several items from this list, you will then be able to switch between them easily.
+No grupo Configurações de fuso horário, você pode selecionar quais fusos horários são seus favoritos e devem ser exibidos em uma tela pop-up quando clicar no Centro de Controle de Horário. Depois de selecionar vários itens dessa lista, você poderá alternar entre eles facilmente.
 
-## Excel RTD
+## Excel DDE
 
 ![](../.gitbook/assets/rtd.png)
 

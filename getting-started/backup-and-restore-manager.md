@@ -8,20 +8,20 @@ description: >-
 
 ## General
 
-Backup & restore manager plugin allows to keep your settings safe and restore them in case of troubles with the application. This smart tool can backup your global settings, connections credentials, workspaces and per panel layout settings in one local file, that can be used later to restore them in several clicks.
+O plug-in do gerenciador de backup e restauração permite manter suas configurações seguras e restaurá-las em caso de problemas com o aplicativo. Essa ferramenta inteligente pode fazer backup de suas configurações globais, credenciais de conexões, áreas de trabalho e configurações de layout por painel em um arquivo local, que pode ser usado posteriormente para restaurá-las em vários cliques..
 
 ![Backup &amp; restore master starting screen](../.gitbook/assets/backupmanager.png)
 
-## Backup settings
+## Configurações de backup
 
-The backup process is easy and doesn’t require many explanations. Just select the path where your backup file will be stored \(Quantower backups folder by default; recommended\) and press the **\[ CREATE BACKUP \]** button.
+O processo de backup é fácil e não requer muitas explicações. Apenas selecione o caminho em que seu arquivo de backup será armazenado \(pasta de backups do Quantower por padrão; recomendado\) e pressione o botão \[**CRIAR BACKUP**\]..
 
 ![](../.gitbook/assets/backupsettings1.png)
 
-Once the process is started, you will see the progress screen, showing the backup process flow. When the backup will be finished you can press the **\[ FINISH \]** button to get to the starting screen. Each backup is created with the automatic name by the template: “Date Time.zip”.
+Uma vez iniciado o processo, você verá a tela de progresso, mostrando o fluxo do processo de backup. Quando o backup estiver concluído, você pode pressionar o botão \[FINISH\] para acessar a tela inicial. Cada backup é criado com o nome automático pelo modelo: “Date Time.zip”.
 
 {% hint style="info" %}
-You may find some backup files in Quantower Backup folder, containing the “**A**” letter at the end — these are the Automatic backups, periodically made by Quantower \(daily, overridden each 5 min\).
+Você pode encontrar alguns arquivos de backup na pasta Quantower Backup, contendo a letra “A” no final - esses são os backups automáticos, feitos periodicamente pelo Quantower \(diariamente, substituídos a cada 5 minutos\).
 {% endhint %}
 
 ## Restore settings
@@ -30,20 +30,20 @@ In case you want to restore some previous settings or wish to apply some custom 
 
 ![Recover your settings in several clicks](../.gitbook/assets/restoresettings.png)
 
-Here you can find two ways of Backup file selection:
+Aqui você encontra duas maneiras de selecionar arquivos de backup::
 
-* From backups folder 
-* From custom file
+* Da pasta de backups 
+* Do arquivo personalizado
 
-The “_**Backups folder**_” is the default Quantower folder where it saves all automatically created backup files and proposes it to store yours, manually created. The Backup & restore manager checks this folder and displays you all the found files to import settings. You may also select some different location of your backup file, using the “_**From custom file**_” option.
+A “pasta Backups” é a pasta padrão do Quantower, onde ele salva todos os arquivos de backup criados automaticamente e propõe que você armazene o seu, criado manualmente. O gerenciador de backup e restauração verifica essa pasta e exibe todos os arquivos encontrados para importar as configurações. Você também pode selecionar um local diferente do seu arquivo de backup, usando a opção “Do arquivo personalizado”..
 
 {% hint style="warning" %}
-Please make sure, that you are specifying the correct backup file \(made by B&R manager earlier\) to avoid the problems with settings import and restore.
+Verifique se você está especificando o arquivo de backup correto \(criado pelo gerente da B&R anteriormente\) para evitar problemas com a importação e restauração de configurações.
 {% endhint %}
 
-Once you select the required backup file and press the **\[ START RECOVERY \]** button, you will see the recovery process flow. When finished, you will be asked about the application restart. This is the required action to apply your newly imported settings.
+Depois de selecionar o arquivo de backup necessário e pressionar o botão \[INICIAR RECUPERAÇÃO\], você verá o processo de recuperação fluir. Quando terminar, você será perguntado sobre a reinicialização do aplicativo. Esta é a ação necessária para aplicar suas configurações importadas recentemente..
 
 {% hint style="success" %}
-In case of any problems with the backup file, B&R manager will keep your current Quantower settings and inform you about it.
+Em caso de problemas com o arquivo de backup, o gerente da B&R manterá suas configurações atuais do Quantower e o informará sobre isso.
 {% endhint %}
 

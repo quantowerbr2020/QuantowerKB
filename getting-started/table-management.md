@@ -1,28 +1,26 @@
 ---
 description: >-
-  Get to know how to add or remove columns in the table, sort and filter data,
-  set alerts and actions
+  Saiba como adicionar ou remover colunas da tabela, classificar e filtrar
+  dados, definir alertas e ações
 ---
 
 # Informações organizadas
 
-## Table panels
+## Painéis de dados
 
-Table panels are represented as a separate class — they all have at least 99% of functionality based on the table view. We use the common table component for all of these panels, so the behavior and features are mostly the same.
+Os painéis da dados são representados como uma classe separada - todos eles têm pelo menos 99% de funcionalidade com base na visualização da tabela. Usamos o componente de tabela comum para todos esses painéis, para que o comportamento e os recursos sejam basicamente os mesmos.
 
 ![Table panels example](../.gitbook/assets/tablepanels.png)
 
-Some table panels have a special toolbar that can be used for Mass-filtering or Quick actions. Other table panels can have no column headers because they don’t really need for understanding the data, thus were hidden to save space; this disables an ability to filter columns data in such panels.
+Alguns painéis de dados possuem uma barra de ferramentas especial que pode ser usada para filtragem em massa ou ações rápidas. Outros painéis de tabela não podem ter cabeçalhos de coluna porque não precisam realmente entender os dados; portanto, foram ocultados para economizar espaço; isso desativa a capacidade de filtrar os dados das colunas nesses painéis.
 
-## Columns management
-
-Data in table panels are organized in rows and columns, where each item’s \(row\) parameters are displayed in columns. Not all of the available columns are displayed by default in each table panel. We have selected the most popular and vital per panel and made an ability to modify the columns set as you like.
+Os dados nos painéis da tabela são organizados em linhas e colunas, onde os parâmetros de cada item \(linha\) são exibidos em colunas. Nem todas as colunas disponíveis são exibidas por padrão em cada painel da tabela. Selecionamos os mais populares e vitais por painel e modificamos as colunas definidas conforme desejado.
 
 ![Modify table columns set as you like](../.gitbook/assets/tablecolumns.png)
 
-Right-click on any column header to see the “_**Column set**_” context menu. Then click on any item in this menu to switch the column’s visibility. You can disable up to 1 column minimum; the last visible column won’t be available to hide.
+Clique com o botão direito do mouse em qualquer cabeçalho de coluna para ver o menu de contexto "Conjunto de colunas". Em seguida, clique em qualquer item deste menu para mudar a visibilidade da coluna. Você pode desativar até 1 coluna no mínimo; a última coluna visível não estará disponível para ocultar.
 
-Other useful features of columns management are sorting and resize. Each column can be dragged by its header between other columns inside the table in order to set the required sequence. You can also drag the vertical borders between two columns to resize them.
+Outros recursos úteis do gerenciamento de colunas estão classificando e redimensionando. Cada coluna pode ser arrastada pelo cabeçalho entre outras colunas dentro da tabela para definir a sequência necessária. Você também pode arrastar as bordas verticais entre duas colunas para redimensioná-las..
 
 ## Filtering
 
@@ -39,54 +37,54 @@ Quick table filter can be accessed by clicking the “_**Filter**_” icon in an
 
 ![Quick filtering per column](../.gitbook/assets/tablequickfilter.png)
 
-Depending on the data type in a column, the Quick filter will give you the corresponding form for input; currently “_**String**_”, “_**Date/time**_” & “_**Number**_” filtering are supported. Once you select some option — the table rows will be filtered to that ones, containing the selected value. Quick filter can be cancelled by pressing “_**Cancel filtering**_” option.
+Dependendo do tipo de dados em uma coluna, o filtro Rápido fornecerá o formulário correspondente para entrada; atualmente, os filtros "String", "Date / time" e "Number" são suportados. Depois de selecionar alguma opção - as linhas da tabela serão filtradas para aquelas, contendo o valor selecionado. O filtro rápido pode ser cancelado pressionando a opção "Cancelar filtragem".
 
 ## Advanced table filter
 
-In case you would like to apply some more complex filtering \(multi-filtering\) you can open an advanced filter from panel’s context menu, option “_**Setup actions**_”. This screen has two tabs on the left side, where the first one is an Advanced filter.
+Caso deseje aplicar uma filtragem mais complexa \(filtragem múltipla\), você pode abrir um filtro avançado no menu de contexto do painel, opção "Ações de configuração". Essa tela possui duas guias no lado esquerdo, onde a primeira é um filtro Avançado.
 
 {% hint style="success" %}
-You will see your filters here if you have applied some previously in Quick mode.
+Você verá seus filtros aqui se tiver aplicado alguns anteriormente no modo Rápido.
 {% endhint %}
 
 ![Table advanced filter screen](../.gitbook/assets/tableadvancedfiltering.png)
 
-This screen allows you to Enable/disable filtering as well as set up filtering Conditions. These conditions are set up as:
+Essa tela permite ativar / desativar a filtragem, bem como configurar as condições de filtragem. Essas condições são configuradas como::
 
 $$
 IF (condition1 AND condition2 ...) OR (conditionN...) …
 $$
 
-You can setup as many conditions as you like. Due to the possible complex logic of filtering, you are required to apply the changes once you finished the filter set up.
+Você pode configurar quantas condições desejar. Devido à possível lógica complexa de filtragem, você deve aplicar as alterações depois de concluir a configuração do filtro..
 
 {% hint style="info" %}
-Please notice, not all of applied via Advanced filter conditions can be accessed from the Quick filter.
+Observe que nem todos os aplicados através das condições avançadas de filtro podem ser acessados no filtro Rápido..
 {% endhint %}
 
-## Sorting
+## Ordenação
 
-Each table can be sorted by column value. To sort the table, click on column’s header; you will see a “_**Sorting**_” icon appears. The next click on this header will revert the sorting by this column. You can sort your table only by one column simultaneously.
+Cada tabela pode ser classificada pelo valor da coluna. Para classificar a tabela, clique no cabeçalho da coluna; você verá um ícone "Classificação". O próximo clique neste cabeçalho reverterá a classificação por esta coluna. Você pode classificar sua tabela apenas por uma coluna simultaneamente.
 
-## Grouping
+## Agrupamento
 
-If you want to organize your rows more precisely, you can use a “_**Rows grouping**_” feature. It allows separating all table items in groups, made from data of some column. Currently, only “_**String**_” data columns are supported for grouping.
+Se você deseja organizar suas linhas com mais precisão, use o recurso "Agrupamento de linhas". Permite separar todos os itens da tabela em grupos, feitos a partir de dados de alguma coluna. Atualmente, apenas as colunas de dados "String" são suportadas para agrupamento.
 
 ![Table grouped by &#x201C;Side&#x201D; value](../.gitbook/assets/tablegrouping.png)
 
-To apply the grouping just right-click on table body and find an option “_**Group by**_”; the second-level of context menu will contain all of available columns that can be grouped by. You can group by one column only. To cancel grouping — follow the previous steps and uncheck the column.
+Para aplicar o agrupamento, basta clicar com o botão direito do mouse no corpo da tabela e encontrar a opção "Agrupar por"; o segundo nível do menu de contexto conterá todas as colunas disponíveis que podem ser agrupadas. Você pode agrupar por apenas uma coluna. Para cancelar o agrupamento - siga as etapas anteriores e desmarque a coluna.
 
 ## Table actions
 
-This feature allows you to setup certain behavior on some data change in the table. Currently, Quantower tables support four types of actions:
+Esse recurso permite configurar determinado comportamento em algumas alterações de dados na tabela. Atualmente, as tabelas Quantower suportam quatro tipos de ações::
 
-* Show message
-* Play sound
-* Color row
-* Color cell
+* Mostrar mensagem
+* Tocar som
+* Cores da coluna row
+* Cores do campo
 
 ![Table actions per any Quantower table-based panel](../.gitbook/assets/tableactions.png)
 
-The Table actions functionality can be found under the panel’s context menu option “Setup Actions” and once launched, it opens an “Actions screen”, where you can manage your Actions. The process of Action creation is not complicated.
+A funcionalidade de ações da tabela pode ser encontrada na opção do menu de contexto do painel "Ações de configuração" e, uma vez iniciada, abre uma "tela de ações", na qual você pode gerenciar suas ações. O processo de criação da ação não é complicado.
 
 1. Create an Action item 
 2. Set conditions \(“OR” & “AND”\) 
